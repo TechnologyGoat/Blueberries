@@ -1,0 +1,35 @@
+/* 
+  LocalizableMacOS.strings
+  Blueberries MacOS
+
+  Created by Christopher Benton on 4/30/23.
+  
+*/
+
+// Settings
+"showAppIn:" = "앱 보기:";
+"dock" = "도크";
+"menubar" = "메뉴바";
+"dockAndMenubar" = "도킹 및 메뉴바";
+"showTimeInMenubar:" = "메뉴 막대에 시간 표시:";
+"closeApplication" = "응용 프로그램 닫기";
+
+// AppMenu
+"aboutBlueberries" = "블루베리 정보";
+"hideBlueberries" = "블루베리 숨기기";
+"hideOthers" = "다른 사람 숨기기";
+"showAll" = "모두 보기";
+"quitBlueberries" = "블루베리 끊기";
+"file" = "파일";
+"close" = "닫기";
+"edit" = "편집";
+"undo" = "취소";
+"redo" = "재실행";
+"cut" = "잘라내기";
+"copy" = "복사";
+"paste" = "붙여넣기";
+"delete" = "삭제";
+"selectAll" = "모두 선택";
+"window" = "창";
+"minimize" = "최소화";
+"help" = "도움말";

@@ -1,0 +1,35 @@
+/* 
+  LocalizableMacOS.strings
+  Blueberries MacOS
+
+  Created by Christopher Benton on 4/30/23.
+  
+*/
+
+// Settings
+"showAppIn:" = "Afficher l'application dans :";
+"dock" = "Quai";
+"menubar" = "Menubar";
+"dockAndMenubar" = "Dock et barre de menus";
+"showTimeInMenubar:" = "Afficher l'heure dans la barre de menus :";
+"closeApplication" = "Fermer l'application";
+
+// AppMenu
+"aboutBlueberries" = "A propos des myrtilles";
+"hideBlueberries" = "Masquer les myrtilles";
+"hideOthers" = "Masquer les autres";
+"showAll" = "Afficher tout";
+"quitBlueberries" = "Arrêtez les myrtilles";
+"file" = "Fichier";
+"close" = "Fermer";
+"edit" = "Modifier";
+"undo" = "Annuler";
+"redo" = "Refaire";
+"cut" = "Couper";
+"copy" = "Copier";
+"paste" = "Coller";
+"delete" = "Supprimer";
+"selectAll" = "Sélectionner tout";
+"window" = "Fenêtre";
+"minimize" = "Réduire";
+"help" = "Aide";

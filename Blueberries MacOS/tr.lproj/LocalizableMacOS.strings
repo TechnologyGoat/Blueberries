@@ -1,0 +1,35 @@
+/* 
+  LocalizableMacOS.strings
+  Blueberries MacOS
+
+  Created by Christopher Benton on 4/30/23.
+  
+*/
+
+// Settings
+"showAppIn:" = "Uygulamayı şurada göster:";
+"dock" = "rıhtım";
+"menubar" = "menubar";
+"dockAndMenubar" = "Dock ve Menü Çubuğu";
+"showTimeInMenubar:" = "Menü çubuğunda zamanı göster:";
+"closeApplication" = "Uygulamayı Kapat";
+
+// AppMenu
+"aboutBlueberries" = "Yaban mersini hakkında";
+"hideBlueberries" = "Yaban mersini Gizle";
+"hideOthers" = "Diğerlerini Gizle";
+"showAll" = "Tümünü Göster";
+"quitBlueberries" = "Yaban mersini bırak";
+"file" = "Dosya";
+"close" = "Kapat";
+"edit" = "Düzenle";
+"undo" = "Geri al";
+"redo" = "Yeniden yap";
+"cut" = "Kes";
+"copy" = "Kopyala";
+"paste" = "Yapıştır";
+"delete" = "Sil";
+"selectAll" = "Tümünü Seç";
+"window" = "Pencere";
+"minimize" = "Küçült";
+"help" = "Yardım";

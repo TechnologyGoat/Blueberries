@@ -1,0 +1,35 @@
+/* 
+  LocalizableMacOS.strings
+  Blueberries MacOS
+
+  Created by Christopher Benton on 4/30/23.
+  
+*/
+
+// Settings
+"showAppIn:" = "显示应用程序：";
+"dock" = "码头";
+"menubar" = "菜单栏";
+"dockAndMenubar" = "菜单栏";
+"showTimeInMenubar:" = "在菜单栏中显示时间：";
+"closeApplication" = "关闭应用程序";
+
+// AppMenu
+"aboutBlueberries" = "关于蓝莓";
+"hideBlueberries" = "隐藏蓝莓";
+"hideOthers" = "隐藏其他人";
+"showAll" = "显示全部";
+"quitBlueberries" = "戒掉蓝莓";
+"file" = "文件";
+"close" = "关闭";
+"edit" = "编辑";
+"undo" = "撤消";
+"redo" = "重做";
+"cut" = "切";
+"copy" = "复制";
+"paste" = "粘贴";
+"delete" = "删除";
+"selectAll" = "全选";
+"window" = "窗口";
+"minimize" = "最小化";
+"help" = "帮助";

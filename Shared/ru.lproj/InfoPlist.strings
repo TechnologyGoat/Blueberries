@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Blueberries
+
+  Created by Christopher Benton on 4/30/23.
+  
+*/
+
+"CFBundleName" = "Черника";
+"CFBundleDisplayName" = "Черника";

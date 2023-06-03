@@ -1,0 +1,35 @@
+/* 
+  LocalizableMacOS.strings
+  Blueberries MacOS
+
+  Created by Christopher Benton on 4/30/23.
+  
+*/
+
+// Settings
+"showAppIn:" = "Toon app in:";
+"dock" = "Dok";
+"menubar" = "Menubalk";
+"dockAndMenubar" = "Dok en menubalk";
+"showTimeInMenubar:" = "Toon tijd in menubalk:";
+"closeApplication" = "Applicatie sluiten";
+
+// AppMenu
+"aboutBlueberries" = "Over Bosbessen";
+"hideBlueberries" = "Bosbessen verbergen";
+"hideOthers" = "Verberg anderen";
+"showAll" = "Toon alles";
+"quitBlueberries" = "Stop met Bosbessen";
+"file" = "Bestand";
+"close" = "Sluiten";
+"edit" = "Bewerken";
+"undo" = "Ongedaan maken";
+"redo" = "Opnieuw";
+"cut" = "Knippen";
+"copy" = "Kopiëren";
+"paste" = "plakken";
+"delete" = "Verwijderen";
+"selectAll" = "Alles selecteren";
+"window" = "Venster";
+"minimize" = "Minimaliseren";
+"help" = "Help";
